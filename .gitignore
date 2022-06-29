@@ -1,0 +1,4 @@
+node_modules/
+config/config.env
+public/
+mongodb-compass_1.32.2_amd64.deb
